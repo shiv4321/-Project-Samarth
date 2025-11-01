@@ -1,6 +1,6 @@
 streamlit==1.31.0
-groq
-pandas==2.1.4
+groq==0.33.0
+pandas>=2.2.2
 requests==2.31.0
 plotly==5.18.0
 python-dateutil==2.8.2

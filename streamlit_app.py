@@ -9,7 +9,7 @@ from datetime import datetime
 import time
 
 # Configuration
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "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"
 DATA_GOV_API_KEY = "579b464db66ec23bdd0000010edcdeee7a1f4a397903c72ca4686ae5"
 BASE_URL = "ht" \
 "tps://api.data.gov.in/resource"
